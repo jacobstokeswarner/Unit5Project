@@ -1,0 +1,54 @@
+body {
+  background-color:grey;
+}
+
+h1,h2,h3 {
+  text-align:center;
+}
+
+#wrapper {
+  width:80%;
+  margin:auto;
+  background-color:blue;
+  box-shadow: 20 px;
+}
+
+div {
+  width:90%;
+  margin:auto;
+}
+
+.itembox {
+  border:solid purple;
+  border-radius:25px;
+  box-shadow:0px 8px 24px; 
+  background-color:red;
+  color:green;
+  padding:16px;
+}
+
+.favorite {
+  border:dashed yellow;
+  border-radius:25px;
+  box-shadow:0px 8px 24px; 
+  background-color:orange;
+  color:black;
+  padding:16px;
+}
+
+ol{
+  background-color:black;
+  color:white;
+  list-style-type:lower-greek;
+}
+
+ul {
+  background-color:white;
+  color:darkgrey;
+  list-style-type:armenian;
+}
+
+.nav {
+  float:left;
+  padding-right:5px;
+}
